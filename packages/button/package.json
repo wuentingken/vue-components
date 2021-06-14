@@ -1,6 +1,6 @@
 {
   "name": "ken-button",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "4"
-  }
+  },
+  "gitHead": "9e5a031649bb351de5efadf65fd397671cc25cdd"
 }
